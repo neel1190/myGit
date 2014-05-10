@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E2590EE5-1003-4CE7-A164-57ED35825F27</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShareKitTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>252FB7C4-209E-4460-BBDF-3F1868CAE8FC</key>
+		<string>https://github.com/neel1190/myGit.git</string>
+		<key>4969930A-7E63-401D-8284-5AE7CAC8F5F3</key>
+		<string>https://github.com/evernote/evernote-sdk-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShareKitTest/ShareKitTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>252FB7C4-209E-4460-BBDF-3F1868CAE8FC</key>
+		<string>../../..</string>
+		<key>4969930A-7E63-401D-8284-5AE7CAC8F5F3</key>
+		<string>../../../Submodules/ShareKit/Submodules/evernote-ios-sdk</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/neel1190/myGit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>252FB7C4-209E-4460-BBDF-3F1868CAE8FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4969930A-7E63-401D-8284-5AE7CAC8F5F3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>evernote-ios-sdk</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>252FB7C4-209E-4460-BBDF-3F1868CAE8FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myGit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
